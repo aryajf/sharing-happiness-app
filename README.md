@@ -12,7 +12,7 @@
 ## Screenshoot
 <img src="./readme_assets/login.JPG" width="100%">
 
-<img src="./readme_assets/isi.jpg" width="100%">
+<img src="./readme_assets/isi.JPG" width="100%">
 
 ## Setup Projek
 <p>Silahkan dibuka terlebih dahulu terminalnya<p>
