@@ -23,6 +23,6 @@ npm run serve || Menjalankan server Vue JS
 ```
 
 <p>Untuk mengubah list video dapat kalian ubah di file ListVideo.vue di folder src/components<p>
-<img src="./readme_assets/code.jpg" width="100%">
+<img src="./readme_assets/code.JPG" width="100%">
 
 <h3 align="center"> Selamat Mencoba 😸 </h3>
